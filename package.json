@@ -1,0 +1,13 @@
+{
+  "name": "dropzone-connector",
+  "version": "0.0.1",
+  "description": "Service that connects all online users, used for status management. (Node Resolver)",
+  "main": "server.js",
+  "repository": "https://github.com/connor-davis/dropzone-connector",
+  "author": "Connor Davis <19422@kloofhigh.co.za>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "@connor-davis/dropzone-protocol": "^1.1.9"
+  }
+}
