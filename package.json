@@ -8,6 +8,7 @@
   "license": "GPL-3.0",
   "private": false,
   "dependencies": {
-    "@connor-davis/dropzone-protocol": "^1.1.9"
+    "@connor-davis/dropzone-protocol": "^1.1.9",
+    "express": "^4.17.1"
   }
 }
